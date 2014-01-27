@@ -1,6 +1,6 @@
 ﻿A dream (Inception) within a dream.
 
-Edgar Allen Poe, the famous poet and author. (if I am not mistaken).
+Edgar Allan Poe, the famous poet and author. (if I am not mistaken).
 
 Take this kiss upon thy brow...
 And other poetry-like words.
@@ -9,3 +9,5 @@ Lineage.
 More lines of poetry...
 And yet another line.
 Whoof, this is sucking.
+line ... line ... line
+another ... another ... another
